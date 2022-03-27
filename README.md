@@ -10,5 +10,5 @@ Les techniques utilisées durant ce projet sont les suivantes :
  - les mixins 
  - le compilateur SaSS
 
-![Visualisation du projet](https://github.com/slahino/HTML-SASS/principale/models/projet_webdevnotes-el.png?raw=true)
+![Visualisation du projet](https://github.com/slahino/HTML-SASS/blob/principale/models/projet_webdevnotes-el.png?raw=true)
 
