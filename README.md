@@ -9,6 +9,7 @@ Les techniques utilisées durant ce projet sont les suivantes :
  - les girds 
  - les mixins 
  - le compilateur SaSS
+ - Responsive Design
 
 ![Visualisation du projet](https://github.com/slahino/HTML-SASS/blob/principale/models/projet_webdevnotes-el.png?raw=true)
 
