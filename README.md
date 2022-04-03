@@ -12,6 +12,6 @@ Les techniques utilisées durant ce projet sont les suivantes :
  - Responsive Design
  - 
  - 
- - <img src="https://github.com/slahino/HTML-SASS/blob/principale/models/projet_webdevnotes-el.png" width="200" height="400" />
+ - <img src="https://github.com/slahino/HTML-SASS/blob/principale/models/projet_webdevnotes-el.png" width="400" height="400" />
 
 
